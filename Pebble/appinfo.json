@@ -1,0 +1,17 @@
+{
+  "uuid": "5be44f1d-d262-4ea6-aa30-edbe01e38a00",
+  "shortName": "LightLogger",
+  "longName": "LightLogger",
+  "companyName": "Pebble Technology / 32leaves",
+  "versionCode": 3,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      
+    ]
+  }
+}
